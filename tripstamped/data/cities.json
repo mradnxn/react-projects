@@ -1,0 +1,64 @@
+{
+  "cities": [
+    {
+      "id": "49ce",
+      "cityName": "Teruel",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-08-28T07:08:58.966Z",
+      "notes": "",
+      "position": {
+        "lat": "40.417222176220626",
+        "lng": "-1.2084960937500002"
+      }
+    },
+    {
+      "id": "ffe3",
+      "cityName": "Puebla de Don Rodrigo",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-08-28T08:13:47.503Z",
+      "notes": "",
+      "position": {
+        "lat": "39.18452496492854",
+        "lng": "-4.768066406250001"
+      }
+    },
+    {
+      "id": "3abe",
+      "cityName": "Foggaret Ezzaou",
+      "country": "Algeria",
+      "emoji": "🇩🇿",
+      "date": "2025-08-28T08:44:47.153Z",
+      "notes": "",
+      "position": {
+        "lat": "26.445192420386054",
+        "lng": "3.8671875000000004"
+      }
+    },
+    {
+      "id": "1cda",
+      "cityName": "Goundam",
+      "country": "Mali",
+      "emoji": "🇲🇱",
+      "date": "2025-08-28T08:46:15.465Z",
+      "notes": "",
+      "position": {
+        "lat": "16.488140061059188",
+        "lng": "-3.6914062500000004"
+      }
+    },
+    {
+      "id": "ca7c",
+      "cityName": "Makokou",
+      "country": "Gabon",
+      "emoji": "🇬🇦",
+      "date": "2025-08-28T08:46:57.759Z",
+      "notes": "",
+      "position": {
+        "lat": "0.9025891930078547",
+        "lng": "13.886718750000002"
+      }
+    }
+  ]
+}
